@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm MADHAN KUMAR</h1>
+<h1 align="center">Hi 👋, I'm MADHAN KUMAR</h1>
 <h3 align="center">A passionate Product designer</h3>
 
 - 🔭 I’m currently studing on **Sri krishna college of technology**
